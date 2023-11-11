@@ -1,3 +1,5 @@
+package part1;
+
 public class Cycle1 {
 
     public static void main(String[] args) {
